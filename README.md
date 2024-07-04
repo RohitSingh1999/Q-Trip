@@ -11,7 +11,7 @@ Utilized Bootstrap extensively for responsive design</p>
 ![](https://github.com/Krishna11118/QTripDynamic/blob/main/examples/QTrip_Dynamic_Gif.gif)
 
 
-👉 Live Demo: <a href='https://qtrip-dynamic-krishna.netlify.app/'>Live Demo</a>
+<!-- 👉 Live Demo: <a href='https://qtrip-dynamic-krishna.netlify.app/'>Live Demo</a> -->
 
 
 List of frameworks/libraries/languages that were used to build this project.
@@ -58,7 +58,7 @@ Landing Page </h3>
  Contact</h2>
 <br>
 
-Krishna -  [@Whatsapp](https://wa.me/+917318378893) - krishnassss365@gmail.com - [@LinkedIn](https://www.linkedin.com/in/krishna365/)
+Rohit Singh -  [@Whatsapp](https://wa.me/+917084220301) - rohitsingh2371999@gmail.com - [@LinkedIn](https://www.linkedin.com/in/rohit-singh-2b0104206/)
 
 
 
