@@ -25,6 +25,7 @@ async function init() {
 }
 
 // Show loading message function
+//
 function showLoadingMessage() {
   let loader = document.createElement("div");
   loader.id = "loader";

@@ -3,6 +3,7 @@ import config from "../conf/index.js";
 function getAdventureIdFromURL(search) {
   // TODO: MODULE_ADVENTURE_DETAILS
   // 1. Get the Adventure Id from the URL
+  //
   const id = search.replace(/\D/g, "");
 
   return id;

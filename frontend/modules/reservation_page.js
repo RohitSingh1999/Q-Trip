@@ -80,6 +80,7 @@ document.getElementById('reservation-table').append(row);
     1. The date of adventure booking should appear in the format D/MM/YYYY (en-IN format) Example:  4/11/2020 denotes 4th November, 2020
     2. The booking time should appear in a format like 4 November 2020, 9:32:31 pm
   */
+ //
 }
 
 export { fetchReservations, addReservationToTable };
